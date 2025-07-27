@@ -7,7 +7,7 @@
  body{
    background-color: var(--mainColor);
    min-height: 900px;
-   font-family: 'ubuntu', sans-serif;
+   font-family: 'Ubuntu', sans-serif;
  }
 
 section h1{
@@ -129,7 +129,7 @@ hr{
   height: 340px;
 }
 
-#skill card:hover{
+#skill .card:hover{
   background-color: var(--acsentColor);
 }
 
